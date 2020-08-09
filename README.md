@@ -2,7 +2,7 @@
 
 ## Overview
 
-Looking for a job can be quite overwhelming for a great part of us. Thus, this script was wrote to help a client to visualize in a csv file vacancies available in a specific agency's website. Later, this script was adapted and used as a part of a bot for job application.
+Looking for a job can be quite overwhelming for a great part of us. Thus, this script was written to help a client to visualize in a csv file vacancies available in a specific agency's website. Later, this script was adapted and used as a part of a bot for job application.
 
 This script and some comments are in the client's native language.
 
